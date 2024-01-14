@@ -59,3 +59,5 @@ Call this method when you've finished using an object URL to let the browser kno
 ```
 window.URL.revokeObjectURL(url);
 ```
+
+![image](https://github.com/VietTheBarbarian/OSEP/assets/56415307/c5bebb59-88c8-4602-ac1f-6089d2a8fe15)
